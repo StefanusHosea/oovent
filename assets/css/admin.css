@@ -1,0 +1,30 @@
+/* OOvent Admin Styles */
+
+.oovent-admin-page {
+    max-width: 1200px;
+}
+
+.oovent-stats {
+    padding: 15px;
+    background: #f9f9f9;
+    border-radius: 4px;
+}
+
+.oovent-stats p {
+    margin: 10px 0;
+}
+
+.oovent-event-fields .options_group {
+    padding: 12px;
+}
+
+/* Product edit page */
+#event_product_data .options_group {
+    padding: 12px 12px 12px 162px;
+}
+
+#event_product_data .form-field {
+    margin-bottom: 15px;
+}
+
+/* Scanner page styles are inline in the class file */
