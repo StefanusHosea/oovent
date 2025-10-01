@@ -1,0 +1,57 @@
+/* OOvent Frontend Styles */
+
+.oovent-event-details {
+    margin: 20px 0;
+    padding: 20px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.oovent-event-details h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.oovent-event-detail {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+.oovent-event-detail .icon {
+    width: 24px;
+    margin-right: 10px;
+}
+
+.oovent-event-detail strong {
+    display: inline-block;
+    width: 120px;
+    color: #666;
+}
+
+.oovent-ticket-info {
+    margin: 20px 0;
+    padding: 15px;
+    background: #e7f3ff;
+    border-left: 4px solid #0073aa;
+}
+
+.oovent-ticket-number {
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: bold;
+    color: #0073aa;
+}
+
+.oovent-qr-code {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.oovent-qr-code img {
+    max-width: 300px;
+    border: 2px solid #ddd;
+    padding: 10px;
+    background: white;
+}
